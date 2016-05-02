@@ -4,7 +4,6 @@ using System.Data;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
-using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -40,7 +39,9 @@ namespace NIDataProcessor
                 string source = textBox1.Text;
                 string outputFolder = textBox2.Text;
 
-                Directory.CreateDirectory(outputFolder);
+                if (!Directory.Exists(outputFolder))
+                    Directory.CreateDirectory(outputFolder);
+
                 string outputPath = Path.Combine(Path.Combine(outputFolder, new DirectoryInfo(source).Name + ".txt"));
 
                 StreamWriter writer = File.CreateText(outputPath);
