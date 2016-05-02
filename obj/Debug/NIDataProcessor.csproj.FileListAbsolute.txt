@@ -1,0 +1,8 @@
+c:\users\darkblue\documents\visual studio 2015\Projects\NIDataProcessor\bin\Debug\NIDataProcessor.exe.config
+c:\users\darkblue\documents\visual studio 2015\Projects\NIDataProcessor\bin\Debug\NIDataProcessor.exe
+c:\users\darkblue\documents\visual studio 2015\Projects\NIDataProcessor\bin\Debug\NIDataProcessor.pdb
+c:\users\darkblue\documents\visual studio 2015\Projects\NIDataProcessor\obj\Debug\NIDataProcessor.csprojResolveAssemblyReference.cache
+c:\users\darkblue\documents\visual studio 2015\Projects\NIDataProcessor\obj\Debug\NIDataProcessor.exe
+c:\users\darkblue\documents\visual studio 2015\Projects\NIDataProcessor\obj\Debug\NIDataProcessor.pdb
+C:\Users\DarkBlue\Documents\Visual Studio 2015\Projects\NIDataProcessor\obj\Debug\NIDataProcessor.RDToNeucomFormatConverter.resources
+C:\Users\DarkBlue\Documents\Visual Studio 2015\Projects\NIDataProcessor\obj\Debug\NIDataProcessor.csproj.GenerateResource.Cache
